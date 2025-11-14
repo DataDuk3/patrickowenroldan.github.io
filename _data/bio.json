@@ -7,12 +7,11 @@
     "phone": "+639604127292",
     "website": "https://patrickowenroldan.github.io",
     "summary": "I am a graduate of Bachelor of Science in Computer Engineering in Pamantasan ng Cabuyao (PNC). I love science and technology, nature, and videogames.",
-    "location": { "address": "", "postalCode": "4025", "city": "Pulo", "countryCode": "Philippines", "province": "Laguna" },
+    "location": { "address": "Birmingham Village, Pulo, Cabuyao, Laguna", "postalCode": "4025", "city": "Pulo", "countryCode": "Philippines", "province": "Laguna" },
     "profiles": [
       { "network": "github", "username": "DataDuk3", "url": "http://github.com/DataDuk3" },
-      { "network": "linkedin", "username": "Patrick Owen Roldan", "url": "www.linkedin.com/in/patrick-owen-roldan-47218b367" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+      { "network": "linkedin", "username": "Patrick Owen Roldan", "url": "http://.linkedin.com/in/patrick-owen-roldan-47218b367" },
+      { "network": "facebook", "username": "Patrick Owen Roldan", "url": "https://www.facebook.com/patrickowen.roldan/" }
     ]
   },
   "interests": [
