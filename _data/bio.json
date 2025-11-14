@@ -1,118 +1,61 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Patrick Owen R. Roldan",
+    "label": "Computer Engineer",
+    "picture": "https://github.com/DataDuk3.png",
+    "email": "roldanpatrickowen90@gmail.com",
+    "phone": "+639604127292",
+    "website": "https://patrickowenroldan.github.io",
+    "summary": "I am a graduate of Bachelor of Science in Computer Engineering in Pamantasan ng Cabuyao (PNC). I love science and technology, nature, and videogames.",
+    "location": { "address": "", "postalCode": "4025", "city": "Pulo", "countryCode": "Philippines", "province": "Laguna" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "DataDuk3", "url": "http://github.com/DataDuk3" },
+      { "network": "linkedin", "username": "Patrick Owen Roldan", "url": "www.linkedin.com/in/patrick-owen-roldan-47218b367" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Software Engineering" },
+    { "name": "Web Development" },
+    { "name": "Computer Networking" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Electronincs" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C/C++", "Java", "Javascript", "CSS", "HTML", "React", "Flask", "R" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Android", "Git/GitHub", "VS Code", "Tinkercad", "Cisco Packet Tracer", "SQL Databases"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Pamantasan ng Cabuyao (PNC)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2021",
+      "endDate": "2025",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Public Employment Service Office",
+      "position": "IT Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-30",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted in the development of an internship scheduling system for PESO, supporting logging and management of intern attendances.",
+        "Contributed to designing and implementing homepage UI, two-factor authentication, Password reset, and portal routing using HTML, CSS, PHP, JavaScript, and MySQL, enhancing security and led to a successful software development.",
+        "Helped on setting up printers, monitors, and projectors, design job postings and job advertisements on Canva, event setup and providing frontline assistance enabling the office to provide quality service for citizens of Cabuyao.",
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
