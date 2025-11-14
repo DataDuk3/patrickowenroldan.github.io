@@ -5,9 +5,9 @@
     "picture": "https://github.com/DataDuk3.png",
     "email": "roldanpatrickowen90@gmail.com",
     "phone": "+639604127292",
-    "website": "https://patrickowenroldan.github.io",
+    "website": "https://dataduk3.github.io/patrickowenroldan.github.io",
     "summary": "I am a graduate of Bachelor of Science in Computer Engineering in Pamantasan ng Cabuyao (PNC). I love science and technology, nature, and videogames.",
-    "location": { "address": "Birmingham Village, Pulo, Cabuyao, Laguna", "postalCode": "4025", "city": "Pulo", "countryCode": "Philippines", "province": "Laguna" },
+    "location": { "address": "Brgy. Pulo, Cabuyao City, Laguna", "postalCode": "4025", "city": "", "countryCode": "Philippines", "region": "" },
     "profiles": [
       { "network": "github", "username": "DataDuk3", "url": "http://github.com/DataDuk3" },
       { "network": "linkedin", "username": "Patrick Owen Roldan", "url": "http://linkedin.com/in/patrick-owen-roldan-47218b367" },
@@ -44,12 +44,12 @@
   ],
   "work": [
     {
-      "company": "Public Employment Service Office",
+      "company": "Public Employment Service Office (PESO - Cabuyao)",
       "position": "IT Intern",
       "website": "",
       "startDate": "2024-07-01",
       "endDate": "2024-08-30",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Handled technical assistance and contributed on a web application for the office",
       "highlights": [
         "Assisted in the development of an internship scheduling system for PESO, supporting logging and management of intern attendances.",
         "Contributed to designing and implementing homepage UI, two-factor authentication, Password reset, and portal routing using HTML, CSS, PHP, JavaScript, and MySQL, enhancing security and led to a successful software development.",
