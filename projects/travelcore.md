@@ -19,4 +19,4 @@ Travel Core is a travel journal web application created as the final project for
 
 You can visit [this video](https://youtu.be/KbUTjCK4jZ8) to better understand the application.
 
-Source: <a href="https://github.com/DataDuk3/Travel-Core"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/DataDuk3/Travel-Core"><i class="large github icon "></i>github.com/DataDuk3/Travel-Core</a>
