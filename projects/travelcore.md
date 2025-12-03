@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/travelcore/travelcore-square.png
 title: "Travel Core"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Travel Core is a travel journal web application created as the final project for CS50."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/travelcore/travelcore-header.png">
 
 Travel Core is a travel journal web application created as the final project for CS50. Its purpose is to provide a digital space for travelers to record, manage, and visualize their journeys. The project brings together multiple modern web technologies—Flask for backend logic, React.js for the frontend, MySQL for data storage, and the Leaflet API for interactive maps. By combining these tools, Travel Core delivers a functional platform that not only supports journaling but also enhances the experience with geolocation features, image uploads, and secure account management.
 
