@@ -16,10 +16,11 @@
   },
   "interests": [
     { "name": "Software Engineering" },
+    { "name": "Data Engineering" },
     { "name": "Web Development" },
     { "name": "Computer Networking" },
     { "name": "Robotics" },
-    { "name": "Electronincs" }
+    { "name": "Electronics" }
   ],
   "skills": [
     {
