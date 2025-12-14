@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/algeval/algeval-square.jpg
+image: img/algeval/algeval-square.png
 title: "A Step-by-step Handwritten Algebraic Solution using Generative Pre-trained Transformer Four Omni"
 date: 2025
 published: true
@@ -31,7 +31,6 @@ evaluation, and runtime of approximately 11 seconds for each HAS evaluation."
   <img width="200px" src="../img/algeval/algeval-1.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/algeval/algeval-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/algeval/algeval-3.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/algeval/algeval-4.jpg" class="img-thumbnail" >
 </div>
 
 The study addresses key challenges in evaluating Handwritten Answer Sheets (HAS), including time-consuming grading, inconsistent scoring, and limited student feedback, by introducing a GPT-4o–powered system that evaluates solutions step by step. Through comparative analysis, the system demonstrates reduced grading time while maintaining accuracy and fairness. Unlike traditional tools that focus only on final answers, it provides detailed, step-by-step feedback and supports alternative solution methods (ASMs), helping students identify and correct errors. The study also highlights the system’s adaptability to diverse handwriting styles and scalability for large-scale assessments, contributing to the advancement of AI-driven tools in mathematics education.
