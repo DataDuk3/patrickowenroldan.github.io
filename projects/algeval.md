@@ -11,20 +11,7 @@ labels:
   - OpenAI
   - GPT-4o
   - Thesis
-summary: "This study aimed to develop an automated step-by-step Handwritten Algebraic
-Solution (HAS) checker through Generative Pre-Trained (GPT-4.0)-4o and Optical
-Character Recognition (OCR) integration to evaluate handwritten algebra solutions
-with corrections for mistake answers. The main purpose is to measure reduction in
-the time spent in manual grading of HAS, because traditional methods often take a
-considerate amount of time. With the advancement of technology like Artificial
-Intelligence (AI) to enhance the process of assessment of grading. The user would
-initially provide an answer key to have a basis on checking HAS of students. Answer keys and HAS were extracted using OCR turning into Latex code. Afterwards, the fine-tuned GPT-4o would compare both solutions and grade the
-HAS, putting corrections in mathematical mistakes. Additionally it asked the user for
-confirmation when encountering an Alternative Solution Method (ASM). The
-researchers conducted observations and comparative analyses with 5 math
-instructors and 5 field experts to evaluate system accuracy, processing speed, and
-adaptability based on ISO/IEC 25010 standards. An average of 4.3 over 5 in overall
-evaluation, and runtime of approximately 11 seconds for each HAS evaluation."
+summary: "This is my college Thesis which ended up being awarded Best in Thesis from our program thanks to the combined efforts of my team."
 ---
 
 <div class="text-center p-4">
@@ -33,7 +20,14 @@ evaluation, and runtime of approximately 11 seconds for each HAS evaluation."
   <img width="200px" src="../img/algeval/algeval-3.jpg" class="img-thumbnail" >
 </div>
 
-The study addresses key challenges in evaluating Handwritten Answer Sheets (HAS), including time-consuming grading, inconsistent scoring, and limited student feedback, by introducing a GPT-4o–powered system that evaluates solutions step by step. Through comparative analysis, the system demonstrates reduced grading time while maintaining accuracy and fairness. Unlike traditional tools that focus only on final answers, it provides detailed, step-by-step feedback and supports alternative solution methods (ASMs), helping students identify and correct errors. The study also highlights the system’s adaptability to diverse handwriting styles and scalability for large-scale assessments, contributing to the advancement of AI-driven tools in mathematics education.
+This study aimed to develop an automated step-by-step Handwritten Algebraic
+Solution (HAS) checker through Generative Pre-Trained (GPT-4.0)-4o and Optical
+Character Recognition (OCR) integration to evaluate handwritten algebra solutions
+with corrections for mistake answers. The main purpose is to measure reduction in
+the time spent in manual grading of HAS, because traditional methods often take a
+considerate amount of time. With the advancement of technology like Artificial
+Intelligence (AI) to enhance the process of assessment of grading. The user would
+initially provide an answer key to have a basis on checking HAS of students. Answer keys and HAS were extracted using OCR turning into Latex code. Afterwards, the fine-tuned GPT-4o would compare both solutions and grade the HAS, putting corrections in mathematical mistakes. Additionally it asked the user for confirmation when encountering an Alternative Solution Method (ASM). The researchers conducted observations and comparative analyses with 5 math instructors and 5 field experts to evaluate system accuracy, processing speed, and adaptability based on ISO/IEC 25010 standards. An average of 4.3 over 5 in overall evaluation, and runtime of approximately 11 seconds for each HAS evaluation.
 
 For this project, I was the "Lead Embedded Systems Engineer" who was responsible for hardware designing, assembly, and firmware. It all started when I suggest to my team to develop a simple paper feeding mechanism similar to a printer to further provide a solution to the time-consuming aspect of manual grading. It was a machanism where a person just needed to put the papers in the slot, the paper goes in one at a time, then gets processed.
 
