@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/goodcode/codingmeme.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/goodcode/codingmeme.jpg">
 
 I remember when I was in college, I was writing variables in acronym form beacause its faster. That habit stay for a long time until one day, when we are short on time for our group project, when we are about to compile all of our code together, there was a lot of complications arise from my work. my variables are confusing and unreadble. In the end, we manage to get by with the help of others who are willing to lend our group a peice of their code. But that day, I learned a valuable lesson of why a “Working” code is not the same as “Good” code.
 
