@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/lego/legos.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/lego/legos.png">
 
 When I was a kid, my mom baught me a box full of lego pieces. I remember playing with it more often than I remember. The process of creating something and bringing it to life with just my own imagination is something I loved doing when I was little. 
 
